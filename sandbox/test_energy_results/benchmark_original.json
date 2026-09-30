@@ -1,0 +1,22 @@
+{
+  "target": "benchmark_target.py",
+  "benchmark_runs": 5,
+  "exit_code": 0,
+  "timeout": false,
+  "execution_time_seconds": 0.125041,
+  "cpu_time_seconds": 0.093889,
+  "average_cpu_usage_percent": 40.76,
+  "max_cpu_usage_percent": 81.17,
+  "memory_usage_mib": 13.55,
+  "max_memory_usage_mib": 13.55,
+  "estimated_power_watts": 15.0,
+  "estimated_energy_joules": 1.408338,
+  "limits": {
+    "cpu": "1 core",
+    "memory": "256 MB",
+    "network": "disabled",
+    "pids_limit": 128
+  },
+  "stdout": "4999950000\n\n4999950000\n\n4999950000\n\n4999950000\n\n4999950000\n",
+  "stderr": ""
+}

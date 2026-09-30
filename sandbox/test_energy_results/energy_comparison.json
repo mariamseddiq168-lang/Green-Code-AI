@@ -1,0 +1,20 @@
+{
+  "original": {
+    "execution_time_seconds": 0.125041,
+    "cpu_time_seconds": 0.093889,
+    "estimated_power_watts": 15.0,
+    "estimated_energy_joules": 1.408338,
+    "estimated_carbon_grams_co2e": 0.00018582237500000003
+  },
+  "refactored": {
+    "execution_time_seconds": 0.118207,
+    "cpu_time_seconds": 0.091163,
+    "estimated_power_watts": 15.0,
+    "estimated_energy_joules": 1.367439,
+    "estimated_carbon_grams_co2e": 0.00018042597916666667
+  },
+  "carbon_comparison": {
+    "carbon_saved_grams_co2e": 5.396395833333356e-06,
+    "carbon_saved_percent": 2.9040613829918787
+  }
+}
